@@ -57,7 +57,7 @@ export default function ContactUs() {
             <div className="space-y-2">
               {/* <h3 className="text-lg font-semibold">Phone:</h3> */}
               {/* <p>+1 1234 56 789</p> */}
-              <p>Let’s bring your ideas to life! Whether you're looking for expert development, innovative AI solutions, or a boost in your online presence, we’re here to help. Share your requirements, and our team will provide tailored solutions to meet your goals</p>
+              <p>Let's bring your ideas to life! Whether you're looking for expert development, innovative AI solutions, or a boost in your online presence, we're here to help. Share your requirements, and our team will provide tailored solutions to meet your goals</p>
               {/* <p>+1 1234 56 780</p> */}
             </div>
 
@@ -65,7 +65,7 @@ export default function ContactUs() {
               {/* <h3 className="text-lg font-semibold">Email:</h3> */}
               {/* <p>info@example.com</p> */}
               {/* <p>email@example.com</p> */}
-              <q><cite><b>Success is built on connections. Let’s connect and create something extraordinary together.</b></cite></q>
+              <q><cite><b>Success is built on connections. Let's connect and create something extraordinary together.</b></cite></q>
             </div>
           </div>
 
