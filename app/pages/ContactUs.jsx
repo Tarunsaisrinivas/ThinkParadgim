@@ -65,7 +65,7 @@ export default function ContactUs() {
               {/* <h3 className="text-lg font-semibold">Email:</h3> */}
               {/* <p>info@example.com</p> */}
               {/* <p>email@example.com</p> */}
-              <q><cite><b>Success is built on connections. Let's connect and create something extraordinary together.</b></cite></q>
+              <q><cite><b>Success is built on connections. Let&apos;s connect and create something extraordinary together.</b></cite></q>
             </div>
           </div>
 
