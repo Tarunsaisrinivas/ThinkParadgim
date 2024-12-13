@@ -33,7 +33,7 @@ const ParticlesComponent = (props) => {
   const options = useMemo(
     () => ({
       background: {
-        image: "url('/herobg.png')",
+        image: `url('/herobg.png')`,
         size: "cover",
         position: "center",
         repeat: "no-repeat",

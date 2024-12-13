@@ -52,7 +52,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-6 py-4 flex items-center justify-between">
         <div className="flex items-center space-x-4">
-          <Image src="/logo.png" alt="Logo" width={150} height={50} />
+          <Image src="/logoimage.png" alt="Logo" className='w-40 h-10 drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]  shadow-white' width={150} height={50} />
         </div>
         <div className="hidden md:flex space-x-8 text-lg">
           <a href="#" className={`hover:text-blue-300 ${scroll ? 'text-blue-900 hover:text-blue-400' : 'text-white'}`}>Home</a>
