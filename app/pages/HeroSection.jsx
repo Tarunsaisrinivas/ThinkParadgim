@@ -31,8 +31,7 @@ const HeroSection = () => {
             <span className="text-blue-400">IT Solutions.</span>
           </h1>
           <p className="text-lg sm:text-xl lg:text-2xl mb-6">
-            You can easily change any design to your own. It is also highly customizable SEO friendly template.
-          </p>
+          Your Source for High-Level Software Development, That Focuses on your Business and your Customers          </p>
           <div className="flex flex-col sm:flex-row justify-center lg:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
             <button className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-md text-lg">
               Get Quotes
